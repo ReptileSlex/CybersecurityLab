@@ -1,0 +1,4 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+reptile+     8  0.0  0.0  18228  3948 tty1     S    00:03   0:00 -bash
+reptile+ 12192  0.0  0.0  16664  1716 tty1     S    02:08   0:00 /bin/bash ./practicaconbash.sh
+reptile+ 12193  0.0  0.0  18664  1888 tty1     R    02:08   0:00 ps -u
